@@ -1,0 +1,16 @@
+img {
+  width: 150px;
+  height: 150px;
+}
+h1 {
+  text-align: center;
+  color: #b37a84;
+  font-family: serif;
+} /*changed text color*/
+body {
+  background-color: #f5e1e0
+} /*changed background color*/
+h2 { 
+  color: #9e8a8e;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+} /*changed text color*/
